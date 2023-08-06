@@ -72,8 +72,8 @@ body {
   .image {
     background-image: url('images/ua.jpg');
     background-size: cover;
-    background-position: center;
-    height: 300px;
+    background-position: center bottom;
+    height: 900px;
   }
   
   .writer-img {
